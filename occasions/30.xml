@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Events>
+    <Event>
+        <CustomerID>30</CustomerID>
+        <Eventname><![CDATA[Gjaldstovan - Setanarsamr��ur]]></Eventname>
+        <Starttime>12-21-2021 12:00</Starttime>
+        <Endtime>12-21-2021 18:00</Endtime>
+        <Companyname><![CDATA[Gjaldstovan]]></Companyname>
+        <Roomname><![CDATA[Clinton]]></Roomname>
+        <Notes><![CDATA[]]></Notes>
+        <Createddate>12-20-2021 10:46</Createddate>
+        <Groupevent>1</Groupevent>
+        <GroupResID>478520</GroupResID>
+        <RoomResID>478522</RoomResID>
+        <HotelID>HF</HotelID>
+        <RoomUsage></RoomUsage>
+        <PictureFile></PictureFile>
+        <RoomDescription></RoomDescription>
+    </Event>
+    <Event>
+        <CustomerID>30</CustomerID>
+        <Eventname><![CDATA[Matveiting - Anna Falkenberg]]></Eventname>
+        <Starttime>12-27-2021 17:00</Starttime>
+        <Endtime>12-27-2021 19:00</Endtime>
+        <Companyname><![CDATA[]]></Companyname>
+        <Roomname><![CDATA[�t F&B]]></Roomname>
+        <Notes><![CDATA[]]></Notes>
+        <Createddate>11-15-2021 15:35</Createddate>
+        <Groupevent>1</Groupevent>
+        <GroupResID>476156</GroupResID>
+        <RoomResID>476158</RoomResID>
+        <HotelID>HF</HotelID>
+        <RoomUsage></RoomUsage>
+        <PictureFile></PictureFile>
+        <RoomDescription></RoomDescription>
+    </Event>
+    <Event>
+        <CustomerID>30</CustomerID>
+        <Eventname><![CDATA[J�gvan & Anna]]></Eventname>
+        <Starttime>12-27-2021 18:00</Starttime>
+        <Endtime>12-27-2021 23:59</Endtime>
+        <Companyname><![CDATA[]]></Companyname>
+        <Roomname><![CDATA[Ruts]]></Roomname>
+        <Notes><![CDATA[]]></Notes>
+        <Createddate>11-28-2021 20:24</Createddate>
+        <Groupevent>1</Groupevent>
+        <GroupResID>476624</GroupResID>
+        <RoomResID>477501</RoomResID>
+        <HotelID>HF</HotelID>
+        <RoomUsage></RoomUsage>
+        <PictureFile></PictureFile>
+        <RoomDescription></RoomDescription>
+    </Event>
+    <Event>
+        <CustomerID>30</CustomerID>
+        <Eventname><![CDATA[Barnad�pur - Ingibj�rg Thomsen]]></Eventname>
+        <Starttime>12-28-2021 12:00</Starttime>
+        <Endtime>12-28-2021 18:00</Endtime>
+        <Companyname><![CDATA[]]></Companyname>
+        <Roomname><![CDATA[Flatnars]]></Roomname>
+        <Notes><![CDATA[]]></Notes>
+        <Createddate>12-06-2021 09:28</Createddate>
+        <Groupevent>1</Groupevent>
+        <GroupResID>477985</GroupResID>
+        <RoomResID>477990</RoomResID>
+        <HotelID>HF</HotelID>
+        <RoomUsage></RoomUsage>
+        <PictureFile></PictureFile>
+        <RoomDescription></RoomDescription>
+    </Event>
+    <Event>
+        <CustomerID>30</CustomerID>
+        <Eventname><![CDATA[Pilates v/Anniku]]></Eventname>
+        <Starttime>12-28-2021 16:30</Starttime>
+        <Endtime>12-28-2021 18:30</Endtime>
+        <Companyname><![CDATA[Pilates V�lvera]]></Companyname>
+        <Roomname><![CDATA[RessYoga]]></Roomname>
+        <Notes><![CDATA[]]></Notes>
+        <Createddate>11-25-2021 11:08</Createddate>
+        <Groupevent>0</Groupevent>
+        <GroupResID>476818</GroupResID>
+        <RoomResID>476819</RoomResID>
+        <HotelID>HF</HotelID>
+        <RoomUsage>Ple</RoomUsage>
+        <PictureFile></PictureFile>
+        <RoomDescription></RoomDescription>
+    </Event>
+    <Event>
+        <CustomerID>30</CustomerID>
+        <Eventname><![CDATA[Br�dleyp Hotel V�gar - Vivian Joensen]]></Eventname>
+        <Starttime>12-30-2021 18:00</Starttime>
+        <Endtime>12-30-2021 23:59</Endtime>
+        <Companyname><![CDATA[]]></Companyname>
+        <Roomname><![CDATA[�t F&B]]></Roomname>
+        <Notes><![CDATA[Hotel V�gar]]></Notes>
+        <Createddate>10-06-2021 16:07</Createddate>
+        <Groupevent>1</Groupevent>
+        <GroupResID>472992</GroupResID>
+        <RoomResID>472994</RoomResID>
+        <HotelID>HF</HotelID>
+        <RoomUsage></RoomUsage>
+        <PictureFile></PictureFile>
+        <RoomDescription></RoomDescription>
+    </Event>
+</Events>
